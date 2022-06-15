@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepak969696
-- 👀 I’m interested in Codiing
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in - Coding and SQL
+- 🌱 I’m currently learning -  SQL
+- 💞️ I’m looking to collaborate on - Various Data Analytics Projects
 - 📫 How to reach me on Lindkin - https://www.linkedin.com/in/deepak-kumar-314a30102/
 
 <!---
